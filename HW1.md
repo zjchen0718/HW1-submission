@@ -3,6 +3,8 @@ HW1
 Zhijiang Chen
 2022-09-29
 
+## github link: <https://github.com/zjchen0718/HW1-submission.git>
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
